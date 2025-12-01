@@ -48,4 +48,4 @@ This solution was built during COVID-19 to reduce manual coordination workload, 
 
 ![Reservation Dashboard](Office-visit-Reservation-Form.jpg)
 ![Reservation Form](Reservation-Dashboard.jpg)
-![Approval Workflow]All-Day-work Approval-Flow.jpg)
+![Power BI Report](OfficeVisit-Power-BI.jpg)
