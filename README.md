@@ -46,8 +46,6 @@ This solution was built during COVID-19 to reduce manual coordination workload, 
 
 ## <u><strong>Screenshots</strong></u>
 
-> *(Replace these with your actual images — leave out anything you don’t have)*
-
-![Reservation Dashboard](Images/ReservationDashboard.png)  
-![Reservation Form](Images/ReservationForm.png)  
-![Approval Workflow](Images/ApprovalWorkflow.png)
+![Reservation Dashboard](Images/ReservationDashboard.jpg)
+![Reservation Form](Images/ReservationForm.jpg)
+![Approval Workflow](Images/ApprovalWorkflow.jpg)
