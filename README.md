@@ -46,6 +46,6 @@ This solution was built during COVID-19 to reduce manual coordination workload, 
 
 ## <u><strong>Screenshots</strong></u>
 
-![Reservation Dashboard](Office_visit_Reservation_Form.jpg)
+![Reservation Dashboard](Office-visit-Reservation-Form.jpg)
 ![Reservation Form](Reservation Dashboard.jpg)
 ![Approval Workflow](Images/ApprovalWorkflow.jpg)
